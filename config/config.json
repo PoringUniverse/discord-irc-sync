@@ -23,7 +23,7 @@
       },
     
     "formatting": {
-        "irc_to_discord": false
+        "irc_to_discord": false,
         "discord_to_irc": true
     }    
 }
