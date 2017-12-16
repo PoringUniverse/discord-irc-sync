@@ -12,17 +12,17 @@
         "log_events": true
     },
     "discord": {
-        "server": "<server id>",
-        "channel": "<channel id>",
-        "token": "<bot token>",
-        "owner": "username",
+        "server": "391355687176896513",
+        "channel": "391391189749989380",
+        "token": "MzgxNTQyODI5Mjk1NjY1MTUz.DRX-sg.M1jiRITZTwz0b8yQmKJZ-VoDW44",
+        "owner": "sctnightcore",
         "cmd_prefix": "!",
         "output_msg": "<:username:> :message:",
         "output_cmd": "CMD by :username:",
         "log_events": true
     },
     "formatting": {
-        "irc_to_discord": true,
+        "irc_to_discord": false,
         "discord_to_irc": true
     }
 }
