@@ -20,8 +20,4 @@
         "output_msg": "<:username:> :message:",
         "output_cmd": "CMD by :username:",
     },
-    "formatting": {
-        "irc_to_discord": false,
-        "discord_to_irc": false,
-    }
 }
