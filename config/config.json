@@ -19,10 +19,10 @@
         "cmd_prefix": "!",
         "output_msg": "<:username:> :message:",
         "output_cmd": "CMD by :username:",
-        "log_events": true
+        "log_events": false,
     },
     "formatting": {
         "irc_to_discord": false,
-        "discord_to_irc": true
+        "discord_to_irc": false,
     }
 }
