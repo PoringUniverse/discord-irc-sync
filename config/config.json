@@ -22,7 +22,7 @@
     },
     
     "formatting": {
-        "irc_to_discord": false,                    // Keep bold|underline|italic from IRC to Discord
-        "discord_to_irc": true                      // Keep bold|underline|italic from Discord to IRC
+        "irc_to_discord": false,
+        "discord_to_irc": true
     }    
 }
