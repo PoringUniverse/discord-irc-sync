@@ -1,11 +1,11 @@
 {
     "irc": {
-        "server": "irc.server.com",
+        "server": "irc.freenode.net",
         "port": "6667",
         "ssl": false,
-        "channel": "#channel",
-        "nickname": "h_bot",
-        "owner": "username",
+        "channel": "#openkore",
+        "nickname": "Poring_bot",
+        "owner": "sctnightcore",
         "cmd_prefix": "!",
         "output_msg": "<:username:> :message:",
         "output_cmd": "CMD by :username:",
@@ -22,7 +22,7 @@
         "log_events": true
     },
     "formatting": {
-        "irc_to_discord": false,
+        "irc_to_discord": true,
         "discord_to_irc": true
     }
 }
