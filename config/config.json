@@ -9,7 +9,7 @@
         "cmd_prefix": "!",
         "output_msg": "<:username:> :message:",
         "output_cmd": "CMD by :username:",
-        "log_events": true
+        "log_events":   true
     },
     "discord": {
         "server": "391355687176896513",
@@ -19,10 +19,10 @@
         "cmd_prefix": "!",
         "output_msg": "<:username:> :message:",
         "output_cmd": "CMD by :username:",
-        "log_events": false,
+        "log_events":   false,
     },
     "formatting": {
-        "irc_to_discord": false,
+        "irc_to_discord":   false,
         "discord_to_irc": true
     }
 }
