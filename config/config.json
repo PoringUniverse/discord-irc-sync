@@ -6,7 +6,7 @@
         "channel": "#openkore",
         "nickname": "Poring_bot",
         "owner": "sctnightcore",
-        "cmd_prefix": "!",
+        "cmd_prefix": "Maytichai",
         "output_msg": "<:username:> :message:",
         "output_cmd": "CMD by :username:",
         "log_events": true
@@ -16,7 +16,7 @@
         "channel": "391391189749989380",
         "token": "MzgxNTQyODI5Mjk1NjY1MTUz.DRX-sg.M1jiRITZTwz0b8yQmKJZ-VoDW44",
         "owner": "sctnightcore",
-        "cmd_prefix": "!",
+        "cmd_prefix": "Maytichai",
         "output_msg": "<:username:> :message:",
         "output_cmd": "CMD by :username:",
         "log_events": false
