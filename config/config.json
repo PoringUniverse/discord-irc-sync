@@ -5,8 +5,8 @@
         "ssl": false,
         "channel": "#openkore",
         "nickname": "Poring_BOT",
-        "owner": "sctnightcore",
-        "cmd_prefix": "",
+        "owner": "",
+        "cmd_prefix": "maytichai",
         "output_msg": "<:username:> :message:",
         "output_cmd": "CMD by :username:",
         "log_events": true
@@ -15,10 +15,10 @@
         "server": "391355687176896513",
         "channel": "391391189749989380",
         "token": "MzgxNTQyODI5Mjk1NjY1MTUz.DTHUgw.XWFSgGCdIuCrIzseyYzjZg-DZj4",
-        "owner": "sctnightcore",
-        "cmd_prefix": "",
+        "owner": "",
+        "cmd_prefix": "maytichai",
         "output_msg": "<:username:> :message:",
-        "output_cmd": "CMD by :username:",
+        "output_cmd": "",
         "log_events": false
       },
     
