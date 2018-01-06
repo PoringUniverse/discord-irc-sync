@@ -8,7 +8,7 @@
         "owner": "",
         "cmd_prefix": "maytichai",
         "output_msg": "<:username:> :message:",
-        "output_cmd": "CMD by :username:",
+        "output_cmd": "",
         "log_events": true
     },
     "discord": {
@@ -23,7 +23,7 @@
       },
     
     "formatting": {
-        "irc_to_discord": true,
+        "irc_to_discord": false
         "discord_to_irc": false
     }    
 }
