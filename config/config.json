@@ -9,7 +9,7 @@
         "cmd_prefix": "Maytichai",
         "output_msg": "<:username:> :message:",
         "output_cmd": "CMD by :username:",
-        "log_events": false
+        "log_events": true
     },
     "discord": {
         "server": "391355687176896513",
